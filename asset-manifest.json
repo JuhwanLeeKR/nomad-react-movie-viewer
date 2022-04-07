@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-react-movie-viewer/static/js/main.7480c790.js",
+    "index.html": "/nomad-react-movie-viewer/index.html",
+    "main.7480c790.js.map": "/nomad-react-movie-viewer/static/js/main.7480c790.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7480c790.js"
+  ]
+}
